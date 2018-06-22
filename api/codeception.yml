@@ -15,7 +15,7 @@ modules:
 
 # To enable code coverage:
 #coverage:
-#    #c3_url: http://localhost:8080/index-test.php/
+#    #c3_url: http://35.193.210.198:8080/index-test.php/
 #    enabled: true
 #    #remote: true
 #    #remote_config: '../tests/codeception.yml'
