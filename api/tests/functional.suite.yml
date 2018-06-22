@@ -18,7 +18,7 @@ modules:
         depends: PhpBrowser
         url: 'http://api.boilerplate.local:8080/index-test.php'
 #     Db:
-#       dsn: 'mysql:host=localhost;dbname=test_db'
+#       dsn: 'mysql:host=35.193.210.198;dbname=test_db'
 #       user: 'test_user'
 #       password: 'test_password'
 #       dump: 'codeception/_data/dump.sql'
